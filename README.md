@@ -1,16 +1,7 @@
-# complete_flutter_project
+# Flutter Advanced Course
 
-A new Flutter project.
 
-## Getting Started
+## ![web-development (2)](https://github.com/user-attachments/assets/48856bc3-41a8-4c6b-b103-1a73a1183d67) System Design
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/f7e9ae54-4564-4fcf-9a11-e2de90d08c4b)
