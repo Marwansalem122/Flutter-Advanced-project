@@ -5,3 +5,9 @@
 
 
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/f7e9ae54-4564-4fcf-9a11-e2de90d08c4b)
+
+
+
+## ![smartphone](https://github.com/user-attachments/assets/96dbd7dd-381b-4a10-8dd6-07f92337ad2a) screens
+## onboarding 
+
